@@ -1,0 +1,13 @@
+EDICION
+Productos, precios y descripciones: app.js, arreglo products.
+Textos y estructura: index.html.
+Colores y estilos: style.css.
+Logo y fotos locales: assets/.
+
+ALCANCE
+Es una demostracion: no recibe pedidos reales ni cobra. El carrito se guarda en el navegador.
+El formulario permite simular una compra y descargar un resumen.
+Los precios son de muestra y las fotos son ilustrativas.
+Algunas fotos se cargan desde Unsplash y las tipografias desde Google Fonts; requieren Internet.
+La copia exportada no incluye el acceso privado de ChatGPT: la visibilidad depende del nuevo servidor.
+Para ventas reales hay que conectar recepcion de pedidos, pagos y confirmar precios, horarios, zonas y costos de envio.
